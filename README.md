@@ -25,5 +25,5 @@ Issues
 
 | Project | PR | Status |
 |----------|----|--------|
-| LangChain | #25 | Merged |
-| Selenium | #10 | Open |
+| LangChain | # |  |
+| Selenium | #|  |
